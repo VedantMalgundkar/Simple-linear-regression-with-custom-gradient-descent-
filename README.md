@@ -1,11 +1,17 @@
 # Simple-linear-regression-with-custom-gradient-descent
-## Gradient descent visualizatiom
+## Fitting best fit line using gradient descent
 
-![test (3)](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/7323b179-c114-4970-b386-2b87b3bb6e64)
+[test (3)](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/7323b179-c114-4970-b386-2b87b3bb6e64)
 
 download & open below link to see 3D interactive plot.
-![Gradient descent visualization - Colaboratory and 19 more pages - Personal - Microsoft​ Edge 9_7_2023 5_44_15 PM (2)](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/b0a1f870-8c51-4a54-abe5-c332e2a43dce)
+
+![Gradient descent visualization](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/aadb707c-44a1-46f9-9602-203538331351)
+
 https://drive.google.com/file/d/1YRWOvTRNZf0sEvD9ygetlEJDKBtPv6Ds/view?usp=drive_link
+
+## Gradient descent visualizaztion
+
+![GD_visual](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/a6a0d49f-0b05-410f-a585-36b8c7351550)
 
  ## Run visualization on colab
 https://colab.research.google.com/drive/1Q6KZWDiKiRyyrZxC567n6HI8frOfMNH0?usp=sharing 
