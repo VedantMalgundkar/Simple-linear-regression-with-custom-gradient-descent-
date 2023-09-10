@@ -3,7 +3,7 @@
 
 ![test (3)](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/7323b179-c114-4970-b386-2b87b3bb6e64)
 
-![download & open this interactive plot](https://drive.google.com/file/d/1YRWOvTRNZf0sEvD9ygetlEJDKBtPv6Ds/view?usp=drive_link)
+[download & open this interactive plot](https://drive.google.com/file/d/1YRWOvTRNZf0sEvD9ygetlEJDKBtPv6Ds/view?usp=drive_link)
 
 ![Gradient descent visualization](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/aadb707c-44a1-46f9-9602-203538331351)
 
