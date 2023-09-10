@@ -10,7 +10,8 @@
 
 ## Gradient descent visualizaztion
 
-![GD_visual](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/a6a0d49f-0b05-410f-a585-36b8c7351550)
+![GD_visual (2)](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/65263646-e53e-43b6-8b5f-cd63afc75d27)
+
 
  ## Run visualization on colab
 https://colab.research.google.com/drive/1Q6KZWDiKiRyyrZxC567n6HI8frOfMNH0?usp=sharing 
