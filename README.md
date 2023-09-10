@@ -1,7 +1,7 @@
 # Simple-linear-regression-with-custom-gradient-descent
 ## Fitting best fit line using gradient descent
 
-[test (3)](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/7323b179-c114-4970-b386-2b87b3bb6e64)
+![test (3)](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/7323b179-c114-4970-b386-2b87b3bb6e64)
 
 download & open below link to see 3D interactive plot.
 
