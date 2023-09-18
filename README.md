@@ -1,11 +1,11 @@
 # Simple-linear-regression-with-custom-gradient-descent
 ## Fitting best fit line using gradient descent
 
-![test (3)](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/7323b179-c114-4970-b386-2b87b3bb6e64)
+![bestfit (1)](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/a696f175-171a-489c-afa4-9d3df22b3c34)
 
-[download & open this html file to see this interactive 3D plot](https://drive.google.com/file/d/1vHtMptLuwzL8qq6niOuRdugVDCXMmJDK/view?usp=drivesdk)
+[download & open this html file to see this interactive 3D plot](https://drive.google.com/file/d/1tcrWhfqKGa23kzDEP5hBveTdn5IFTDvn/view?usp=sharing)
 
-![GD path and loss trace](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/ef50bce3-acc1-48ff-b56e-f68828763f13)
+![3d GD SS](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/aa98a388-c7d0-4e7b-9de3-0ba5f1aad1b0)
 
 
 ## Gradient descent visualizaztion
@@ -14,4 +14,4 @@
 
 
  ## Run visualization on colab
-https://colab.research.google.com/drive/1Q6KZWDiKiRyyrZxC567n6HI8frOfMNH0?usp=sharing 
+https://colab.research.google.com/drive/1oLcHcSp8fqQpbEF_bjoWUE807kH08cY1?usp=sharing
