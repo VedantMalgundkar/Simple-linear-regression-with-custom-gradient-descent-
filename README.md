@@ -8,7 +8,7 @@
 ![3d GD SS](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/aa98a388-c7d0-4e7b-9de3-0ba5f1aad1b0)
 
 
-## Gradient descent visualizaztion
+## Gradient descent visualization
 
 ![GD_visual (2)](https://github.com/VedantMalgundkar/Simple-linear-regression-with-custom-gradient-descent-/assets/129035372/65263646-e53e-43b6-8b5f-cd63afc75d27)
 
